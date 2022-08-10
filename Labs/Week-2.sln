@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_2_1_StudentDatabase", "Lab_2_1_StudentDatabase\Lab_2_1_StudentDatabase.csproj", "{1337EC59-B342-4B58-A907-25B744CA2EEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_2_Shopping_List", "Lab_2_2_Shopping_List\Lab_2_2_Shopping_List.csproj", "{93CED620-8BFC-4E38-B92F-6197A8E9905E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_2_2_Shopping_List", "Lab_2_2_Shopping_List\Lab_2_2_Shopping_List.csproj", "{93CED620-8BFC-4E38-B92F-6197A8E9905E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_3_String_Reversal", "Lab_2_3_String_Reversal\Lab_2_3_String_Reversal.csproj", "{849A6C7F-97BB-48E0-B85A-09FAA2850C4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{93CED620-8BFC-4E38-B92F-6197A8E9905E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93CED620-8BFC-4E38-B92F-6197A8E9905E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93CED620-8BFC-4E38-B92F-6197A8E9905E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849A6C7F-97BB-48E0-B85A-09FAA2850C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849A6C7F-97BB-48E0-B85A-09FAA2850C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849A6C7F-97BB-48E0-B85A-09FAA2850C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849A6C7F-97BB-48E0-B85A-09FAA2850C4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

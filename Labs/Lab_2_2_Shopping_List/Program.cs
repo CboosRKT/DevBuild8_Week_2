@@ -1,4 +1,7 @@
-﻿//Pizzazz Methods
+﻿//Learn how to create custom Methods that can be used in multiple programs WITHOUT Copy Pasta
+
+
+//Pizzazz Methods
 //
 // PrintHead()
 //
